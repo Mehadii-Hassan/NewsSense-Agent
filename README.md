@@ -61,7 +61,7 @@ newsintel-agent/
 <ol>
   <li>Clone the repository</li>
   
-  <pre><code>git clone https://github.com/Mehadii-Hassan/NewsIntel-Agent.git</code></pre>
+  <pre><code>git clone https://github.com/Mehadii-Hassan/NewsSense-Agent</code></pre>
 
   <li>Install dependencies</li>
 
@@ -77,7 +77,7 @@ MODEL_NAME="openai/gpt-4.1-nano"
 
   <li>Run the program</li>
 
-  <pre><code>python newsintel.py</code></pre>
+  <pre><code>python newssense.py</code></pre>
 </ol>
 
 <hr>
