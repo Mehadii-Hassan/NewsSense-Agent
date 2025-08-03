@@ -1,0 +1,4 @@
+openai>=1.14.3
+python-dotenv>=1.0.1
+pydantic>=2.5.3
+dataclasses; python_version<"3.7"
