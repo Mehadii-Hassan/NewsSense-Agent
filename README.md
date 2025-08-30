@@ -1,7 +1,7 @@
 <h1 align="center">🗞️ NewsSense Agent</h1>
 
 <p align="center">
-  <strong>Your AI-powered News Assistant using OpenAI Multi-Agent Architecture </strong><br>
+  <strong>Your AI-powered News Assistant using OpenAI Multi-Agent Architecture</strong><br>
   Get trending headlines, fact-check news claims, and summarize articles – all in one place.
 </p>
 
